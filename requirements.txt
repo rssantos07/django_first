@@ -21,3 +21,8 @@ six==1.16.0
 sqlparse==0.4.4
 tzdata==2023.3
 urllib3==2.1.0
+factory-boy~=3.3.0
+
+Faker~=22.2.0
+pytest~=7.4.4
+pip~=23.3.2
